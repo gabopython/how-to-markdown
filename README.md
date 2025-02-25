@@ -1,6 +1,6 @@
 # How to markdown
 
-Basic Syntax:
+Básic Sintax:
 
 ## Headings:
 \# Heading 1
@@ -17,11 +17,11 @@ And so on...
 \- Item 2
 
 ## Ordered lists:
-\ 1. Item 1
+1. Item 1
 
-\ 2. Item 2
+2. Item 2
 
-## Links:
+## L1nks:
 \[Alt text](url)
 
 ## Images:
