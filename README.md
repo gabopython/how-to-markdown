@@ -22,7 +22,7 @@ And so on...
 '2. Item 2'
 
 ## Links:
-"[Alt text](url)"
+\[Alt text](url)
 
 ## Images:
 '![Alt text](image URL)'
