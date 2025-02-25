@@ -17,9 +17,9 @@ And so on...
 \- Item 2
 
 ## Ordered lists:
-\1. Item 1
+\ 1. Item 1
 
-\2. Item 2
+\ 2. Item 2
 
 ## Links:
 \[Alt text](url)
