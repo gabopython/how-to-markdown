@@ -22,10 +22,12 @@ And so on...
 2. Item 2
 
 ## L1nks:
-\[Alt text](url)
+
+\![Alt text](image URL)
 
 ## Images:
-\![Alt text](image URL)
+
+\[Alt text](url)
 
 ## Blockquotes:
 \> Blockquote
